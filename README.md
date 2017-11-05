@@ -13,3 +13,5 @@ A lightweight, before-after, image comparison slider thingy, written in pure jav
 <script src="js/image-comparison-slider.min.js"></script>
 
 ```
+
+[DEMO](https://paulbrowne.xyz/image-comparison-slider)
